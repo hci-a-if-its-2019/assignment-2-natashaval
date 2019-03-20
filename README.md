@@ -17,7 +17,7 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 2. Version Differences
 #### First Version
-On the first version, **the layout is divided into two parts**. The left side contains all products that have been inserted in the cart. It will list the products with picture attached and users can select or unselect them. First row will show the seller name and after that will show the product with its variant if available. Next to the product title shows quantity and the total price of each products. Meanwhile, the right side contains the subtotal of the ongoing purchased items and under the subtotal, user can use 'voucher coupon' menu and used up 'koin shopee'. A blocked button of 'Checkout' is available under those.
+On the first version, **the layout is divided into two parts**. The left side contains all products that have been inserted in the cart. It will list the products with picture attached and users can select or unselect them. First row will show the seller name and after that will show the product title with its variant if available. Next to the product title shows quantity and the total price of each products. Meanwhile, the right side contains the subtotal of the ongoing purchased items and under the subtotal, user can use 'voucher coupon' menu and used up 'koin shopee'. A blocked button of 'Checkout' is available under those.
 
 #### Second Version
 On the second version, the layout **shows all products soon to be purchased**. It is divided into three parts, which is products, quantity, and subtotal. Products shows an image and the title with a subtitle of seller's name. It also show the single price of product (or when there is a discount). Next to it will be quantity of the products with a small icon to 'Delete' and to 'Wishlist'. The last part will be the multiply of quantity and the price of the products. The bottom of the product list will show 'voucher coupon', 'koin shopee' and the subtotal of products.
@@ -26,33 +26,26 @@ On the second version, the layout **shows all products soon to be purchased**. I
 Third version is a combination of the first and second version. The layout is divided into two parts, where the left side is the products detail and the right side is the order summary. The left side of products will be similar to the second version with divider on products, variants, quantity, price, and total. The right side will be an order summary with total products to be bought and the amount of money spent. Under those will be voucher coupon (if exists) and the checkout button.
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+The third version will be my choice of design for shopping cart UI design idea. It is because it shows a **simple** list of purchased products and the subtotal is listed on the right side of the screen, which can be a focus point of items to be purchased. The list of purchased products has already divided into product details, variant, quantity, product price and the total of price. This will ease the user since they already know the division.
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+From the contextual inquiry, user tend to search for several parts of the unnoticeable menu (for example variant menu and voucher menu). By applying the new design, user can locate the menu easily since there is already a divisor upon all the parts.
 
 ## Part B: Assumptions
 ### 1. Hardware
 ```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
+Hardware: Desktop PC or laptop
+Screen size: 14 to 16 inches
+Physical input: Mouse / touchpad and keyboard
+Screen resolution: minimum 1366 x 768 (low-resolution) or higher
+Screen color: RGB
 ```
 ### 2. Users
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+- User should be familiar with desktop / laptop with input mouse, touchpad, and keyboard.
+- User may be novice in online shopping (zero experience).
+- User are able to use browser (Google Chrome, Mozilla Firefox, etc)
+- User will be in the range of 12 - 65 years old.
 ```
 
 ## Part C: Prototypes

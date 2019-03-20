@@ -7,17 +7,23 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+#### First Version
+![Scan/Photo of Sketches](images/2303166.jpg)
+#### Second Version
+![Scan/Photo of Sketches](images/2303169.jpg)
+#### Third Version
+![Scan/Photo of Sketches](images/2303168.jpg)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+#### First Version
+On the first version, **the layout is divided into two parts**. The left side contains all products that have been inserted in the cart. It will list the products with picture attached and users can select or unselect them. First row will show the seller name and after that will show the product with its variant if available. Next to the product title shows quantity and the total price of each products. Meanwhile, the right side contains the subtotal of the ongoing purchased items and under the subtotal, user can use 'voucher coupon' menu and used up 'koin shopee'. A blocked button of 'Checkout' is available under those.
+
+#### Second Version
+On the second version, the layout **shows all products soon to be purchased**. It is divided into three parts, which is products, quantity, and subtotal. Products shows an image and the title with a subtitle of seller's name. It also show the single price of product (or when there is a discount). Next to it will be quantity of the products with a small icon to 'Delete' and to 'Wishlist'. The last part will be the multiply of quantity and the price of the products. The bottom of the product list will show 'voucher coupon', 'koin shopee' and the subtotal of products.
+
+#### Third Version
+Third version is a combination of the first and second version. The layout is divided into two parts, where the left side is the products detail and the right side is the order summary. The left side of products will be similar to the second version with divider on products, variants, quantity, price, and total. The right side will be an order summary with total products to be bought and the amount of money spent. Under those will be voucher coupon (if exists) and the checkout button.
 
 ### 3. Selected Sketch
 ```

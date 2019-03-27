@@ -55,4 +55,4 @@ Screen color: RGB
 [Freehand Link](https://projects.invisionapp.com/freehand/document/zY57FzYCs)
 
 ### Prototype Link
-[Protoype Link](https://invis.io/NGR8KOQUQA7#/354743964_4payment)
+[Protoype Link](https://invis.io/NGR8KOQUQA7#/354742454_1)

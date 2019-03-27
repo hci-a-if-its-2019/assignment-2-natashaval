@@ -50,4 +50,9 @@ Screen color: RGB
 
 ## Part C: Prototypes
 ![Scan/Photo of Sketches](images/Prototype.png)
-[InvisionApp Link](https://projects.invisionapp.com/freehand/document/zY57FzYCs)
+
+### Freehand Link
+[Freehand Link](https://projects.invisionapp.com/freehand/document/zY57FzYCs)
+
+### Prototype Link
+[Protoype Link](https://invis.io/NGR8KOQUQA7#/354743964_4payment)

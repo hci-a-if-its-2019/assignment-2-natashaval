@@ -29,7 +29,7 @@ Third version is a combination of the first and second version. The layout is di
 The third version will be my choice of design for shopping cart UI design idea. It is because it shows a **simple** list of purchased products and the subtotal is listed on the right side of the screen, which can be a focus point of items to be purchased. The list of purchased products has already divided into product details, variant, quantity, product price and the total of price. This will ease the user since they already know the division.
 
 ### 4. Design Rationale
-From the contextual inquiry, user tend to search for several parts of the unnoticeable menu (for example variant menu and voucher menu). By applying the new design, user can locate the menu easily since there is already a divisor upon all the parts.
+From the contextual inquiry, user tend to search for several parts of the unnoticeable menu (for example variant menu and voucher menu). By applying the new design, user can locate the menu easily since there is already a divider upon all the parts.
 
 ## Part B: Assumptions
 ### 1. Hardware
@@ -49,4 +49,5 @@ Screen color: RGB
 ```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+![Scan/Photo of Sketches](images/Prototype.png)
+[InvisionApp Link](https://projects.invisionapp.com/freehand/document/zY57FzYCs)

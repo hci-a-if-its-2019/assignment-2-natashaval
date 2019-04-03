@@ -28,8 +28,15 @@ Third version is a combination of the first and second version. The layout is di
 ### 3. Selected Sketch
 The third version will be my choice of design for shopping cart UI design idea. It is because it shows a **simple** list of purchased products and the subtotal is listed on the right side of the screen, which can be a focus point of items to be purchased. The list of purchased products has already divided into product details, variant, quantity, product price and the total of price. This will ease the user since they already know the division.
 
+P.S. The other flow for shopping a product is the same as Shopee Website (ex: for searching products and viewing product details).
+
 ### 4. Design Rationale
-From the contextual inquiry, user tend to search for several parts of the unnoticeable menu (for example variant menu and voucher menu). By applying the new design, user can locate the menu easily since there is already a divider upon all the parts.
+From the contextual inquiry, user tend to search for several parts of the unnoticeable menu (for example variant menu and voucher menu). By applying the new design, user can locate the menu in shopping cart easily since there is already a divider upon all the parts.
+<br />
+Searching products in shopee, advertisement will be showing up in the first row, though sometimes those do not relevant with the searched terms. In the new design, ads are suggested to be placed not at the first row, but in random position. Therefore, buyers will least likely to notice that those products are actually ads.
+<br />
+Last, rather than put everything (address, products, vouchers, and payment method) in a single page, the new design suggested to separate those. In the main page of checkout will list buyer's address and products to be bought. Meanwhile, voucher and payment method will be a button, that will pop-up when trigger. This will not overwhelm users since they need not to scroll a long page of checkout.
+
 
 ## Part B: Assumptions
 ### 1. Hardware

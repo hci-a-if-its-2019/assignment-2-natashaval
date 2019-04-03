@@ -49,6 +49,7 @@ Screen color: RGB
 ```
 
 ## Part C: Prototypes
+
 ![Scan/Photo of Sketches](images/Prototype.png)
 
 ### Freehand Link

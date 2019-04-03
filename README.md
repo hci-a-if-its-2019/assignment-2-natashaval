@@ -56,4 +56,9 @@ Screen color: RGB
 [Freehand Link](https://projects.invisionapp.com/freehand/document/zY57FzYCs)
 
 ### Prototype Link
-[Protoype Link](https://invis.io/NGR8KOQUQA7#/354742454_1)
+
+##### Low Fidelity Prototype
+[Low Fidelity Protoype Link](https://invis.io/NGR8KOQUQA7#/354742454_1)
+
+##### High Fidelity Prototype
+[High Prototype Link](https://invis.io/NGR8KOQUQA7#/355982563_6productlist_V1)

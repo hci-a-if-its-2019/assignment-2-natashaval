@@ -68,4 +68,5 @@ Screen color: RGB
 [Low Fidelity Protoype Link](https://invis.io/NGR8KOQUQA7#/354742454_1)
 
 ##### High Fidelity Prototype
-[High Prototype Link](https://invis.io/NGR8KOQUQA7#/355982563_6productlist_V1)
+[High Fidelity Invision Link](https://invis.io/NGR8KOQUQA7#/355982563_6productlist_V1)
+[High Fidelity Youtube](https://youtu.be/eqxtROYaqAM)
